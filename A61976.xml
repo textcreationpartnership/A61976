@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Summons from a true-Protestant conjurer to Cethegus's Ghost to appear Septemb. 19, 1682</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61976</idno>
+            <idno type="STC">Wing S6176</idno>
+            <idno type="STC">ESTC R16402</idno>
+            <idno type="EEBO-CITATION">12009691</idno>
+            <idno type="OCLC">ocm 12009691</idno>
+            <idno type="VID">52371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52371)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 551:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Summons from a true-Protestant conjurer to Cethegus's Ghost to appear Septemb. 19, 1682</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Stuarts, 1603-1714 --  Poetry.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:52371:1"/>
+            <!-- PDF PAGE 13 -->
+            <pb n="1" facs="tcp:52371:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>A SUMMONS FROM A True-Proteſtant CONJURER, TO Cethegus's Ghoſt, To appear <date>
+                  <hi>Septemb.</hi> 19. 1682.</date>
+            </head>
+            <lg>
+               <l>RIſe from the Dead <hi>Cethegus</hi> at our Call,</l>
+               <l>Lend a kind Vote at our Next <hi>COMMON-HALL.</hi>
+               </l>
+               <l>Thy Voice of old in <hi>Rome</hi> was deem'd Divine,</l>
+               <l>Surpaſſing, our <hi>Grand Patron's, Cataline.</hi>
+               </l>
+               <l>
+                  <hi>"The Ill's we have Committed ſafe can't be</hi>
+               </l>
+               <l>
+                  <hi>"Without attempting Worſe for LIBERTY.</hi>
+               </l>
+               <l>Shall we, like Vaſſals, Fetter'd be by Law:</l>
+               <l>We, who of <hi>nought</hi> that's <hi>Moral,</hi> ſtand in Aw?</l>
+               <l>Shall we <hi>(True Iſrael)</hi> by <hi>Saul's</hi> humbled be?</l>
+               <l>We, who can ſcarcely own <hi>Theocracy.</hi>
+               </l>
+               <lg>
+                  <l>
+                     <hi>Brutus</hi> was Brave, and his Impulſe Divine,</l>
+                  <l>When firſt from <hi>Rome</hi> he chac'd the <hi>Royal Line,</hi>
+                  </l>
+                  <l>And <hi>ſomething lik't WE</hi> did, ere <hi>FORTY NINE.</hi>
+                  </l>
+               </lg>
+               <l>But thoſe <hi>BLEST-REFORMATION-DAYS</hi> ſoon paſt,</l>
+               <l>And <hi>C—s RET<g ref="char:V">Ʋ</g>RN</hi> our blooming Hopes did blaſt.</l>
+               <l>On <hi>Biſhops Lands</hi> we <hi>SAINTS</hi> did <hi>Freely</hi> feed,</l>
+               <l>Till <hi>Batt,</hi> the Vile Apoſtle made us bleed.</l>
+               <l>Shepherds and Sheep caſhier'd; Th' admitted Goats</l>
+               <l>Who led our Flocks aſtray: till up roſe <hi>O</hi>—</l>
+               <pb facs="tcp:52371:2"/>
+               <!-- PDF PAGE 14 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:52371:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 14 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:52371:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 15 -->
+               <l>
+                  <hi>O</hi>—Grand <hi>Retriever</hi> of our <hi>REFORMATION,</hi>
+               </l>
+               <l>
+                  <hi>SAVIO<g ref="char:V">Ʋ</g>R o'th' TR<g ref="char:V">Ʋ</g>E-PROTESTING Part o'th' Nation!</hi>
+               </l>
+               <l>He taught us by his <hi>Bleſt DISCOVERY,</hi>
+               </l>
+               <l>To form a <hi>Method</hi> for <hi>New Liberty;</hi>
+               </l>
+               <l>And to ſecure a <hi>ſtronger COMBINATION,</hi>
+               </l>
+               <l>We mildly ſtild it an <hi>ASSOCIATION.</hi>
+               </l>
+               <l>But this <hi>Intrigue</hi> was ſtifled in its Birth,</l>
+               <l>And prov'd th' <hi>Abortive</hi> of our Teeming Mirth:</l>
+               <l>This Point thus loſt, no Favour can we hope,</l>
+               <l>(For <hi>Ignoramus, Noos'd</hi> the <hi>JOYNERS ROPE:</hi>)</l>
+               <l>And <hi>Long'd-For-Commonwealth</hi> is this Day loſt,</l>
+               <l>Unleſs Retriev'd by <hi>Brutus,</hi> or thy <hi>Ghoſt.</hi>
+               </l>
+               <l>Riſe then <hi>Cethegus,</hi> Dear <hi>Cethegus</hi> Riſe,</l>
+               <l>
+                  <hi>PYM, HAMBDEN, STRO<g ref="char:V">Ʋ</g>D,</hi> All <hi>Brutus</hi> dear Allies;</l>
+               <l>From Holy <hi>MATCHIAVIL,</hi> to more Holy <hi>HOBBS,</hi>
+               </l>
+               <l>(The Grand <hi>D<g ref="char:V">Ʋ</g>
+                     <g ref="char:V">Ʋ</g>MVIRATE</hi> for <hi>Republick Jobbs</hi>)</l>
+               <l>Riſe <hi>MILTON,</hi> who, to make the <hi>Worſt-Cauſe Good,</hi>
+               </l>
+               <l>Did'ſt dare <hi>Beſpatter</hi> a Bleſt <hi>MARTYR's BLOOD:</hi>
+               </l>
+               <l>Riſe <hi>PETERS, NOL, SCROOP, SCOTT,</hi> Hell's Modern Furies,</l>
+               <l>Meet <hi>Sutan, Fire</hi> and <hi>Brimſtone,</hi> and <hi>WHIGG-J<g ref="char:V">Ʋ</g>RIES;</hi>
+               </l>
+               <l>With <hi>ZEAL</hi> Hell-hot, outvie <hi>VES<g ref="char:V">Ʋ</g>VIO</hi>'s Fires,</l>
+               <l>Calcining what againſt our <hi>CA<g ref="char:V">Ʋ</g>SE</hi> conſpires:</l>
+               <l>Without theſe Aids (no Truſt in <hi>HOLDER-FORTH</hi>)</l>
+               <l>We're <hi>Gone, Gone, Gone,</hi> by <hi>C—LAWS,</hi> D—N.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>S. B.</hi> 1682.</p>
+            <pb facs="tcp:52371:3"/>
+            <!-- PDF PAGE 15 -->
+         </div>
+      </back>
+   </text>
+</TEI>
